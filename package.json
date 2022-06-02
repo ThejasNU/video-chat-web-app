@@ -1,0 +1,15 @@
+{
+	"name": "webrtc_video_chat_app",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.18.1",
+		"nodemon": "^2.0.16",
+		"socket.io": "^4.5.1"
+	}
+}
