@@ -4,7 +4,7 @@ import Peer from "simple-peer";
 
 const SocketContext = createContext();
 
-const socket = io("https://webrtc-videochat-web-app.herokuapp.com/");
+const socket = io("https://webrtc-videochat-webapp-backend.vercel.app/");
 
 const ContextProvider = ({ children }) => {
 	const [callAccepted, setCallAccepted] = useState(false);
