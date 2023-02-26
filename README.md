@@ -1,6 +1,6 @@
 # Video Chat Web App
 
-It has been built using React, Material UI, Socket.io and WebRTC 
+It has been built using React, Material UI, Socket.io and WebRTC.
 
 To open this on your browser [click here](https://webrtc-videochat-web-app.netlify.app/)
 
